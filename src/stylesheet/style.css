@@ -12,14 +12,14 @@
   background-color:#2c3333;
   color:#ffffff;
   padding:5%;
-  padding-top:7%;
-  padding-bottom:3%;
+  /* padding-top:7%;
+  padding-bottom:3%; */
   }
 
   img {
       pointer-events: none;
-      width: 27%;
-      height: 27%;
+      width: 210px;
+      height: 210px;
       object-fit: cover
     }
     
